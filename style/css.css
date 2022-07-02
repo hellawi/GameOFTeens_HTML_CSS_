@@ -1,0 +1,136 @@
+.start-photo{
+    display: block;
+    margin: 0 auto;
+}
+.start-2{
+    display: block;
+    margin: 0 auto;
+}
+.title {
+    text-align: center;
+    font-family: Oswald;
+    color: blue;
+}
+.volunteers {
+    text-align: center;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+.volunteers-2{
+    text-align: center;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+.way {
+    font-size: 20;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(221, 189, 9);
+}
+.title-victory {
+    text-align: center;
+    font-family: Oswald;
+    color: blue;
+}
+.himars {
+    color: blue;
+    font-family: Oswald;
+    text-align: center;
+}
+.himars-photo {
+    display: block;
+    margin: 0 auto;
+}
+.himars-about{
+    text-align: center;
+    font-family: Oswald; 
+}
+.himars-about-2{
+    text-align: center;
+    font-family: Oswald; 
+}
+.himars-button{
+    color: yellow;
+    background-color: red;
+    display: block;
+    margin: 0 auto;
+    width: 40;
+    height: 80;
+}
+.himars-button:hover{
+    cursor: pointer;
+    color: blue;
+}
+.bayraktar {
+    color: blue;
+    font-family: Oswald;
+    text-align: center;
+}
+.bayraktar-photo {
+    display: block;
+    margin: 0 auto;
+}
+.bayraktar-about{
+    text-align: center;
+    font-family: Oswald; 
+}
+.bayraktar-about-2{
+    text-align: center;
+    font-family: Oswald; 
+}
+.bayraktar-button{
+    color: yellow;
+    background-color: rgb(255, 0, 0);
+    display: block;
+    margin: 0 auto;
+    width: 40;
+    height: 80;
+}
+.bayraktar-button:hover{
+    cursor: pointer;
+    color: blue;
+}
+.zvit{
+    color: blue;
+    font-family: Oswald;
+    text-align: center; 
+}
+.zvit-about{
+    font-size: 20;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(88, 75, 2);
+}
+.victory-text{
+    color: blue;
+    font-family: Oswald;
+    text-align: center;
+}
+.zvit-zsy{
+    color: blue;
+    font-family: Oswald;
+    text-align: center;
+}
+.russia-korabel{
+    display: block;
+    margin: 0 auto;
+}
+.tel-address{
+    font-family: Oswald;
+}
+a {
+    text-decoration: none;
+    color: gray;
+}
+.address{
+    font-family: Oswald;
+}
+.contacts{
+    font-family: Oswald;
+}
+footer {
+    background-color: blue;
+}
+#title {
+    text-decoration: none;
+}
